@@ -10,7 +10,7 @@
 <br>
 
 ## Education
-- <b>in progress: Information Technolog</b> <i>Master of Science</i>
+- <b>Information Technolog</b> <i>Master of Science 2023 - 2024</i>
 - <b>Web Development</b> <i>Bachelor</i>
 - <b>Computer science</b> <i>Academy Profession (AP)</i>    
 - <b>Web Development</b> <i>Vocational education</i>
