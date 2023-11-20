@@ -10,7 +10,6 @@
 <br>
 
 ## Education
-- <b>Information Technolog</b> <i>Master of Science 2023 - 2024</i>
 - <b>Web Development</b> <i>Bachelor</i>
 - <b>Computer science</b> <i>Academy Profession (AP)</i>    
 - <b>Web Development</b> <i>Vocational education</i>
